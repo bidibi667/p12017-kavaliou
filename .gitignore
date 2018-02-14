@@ -1,0 +1,9 @@
+
+*.tar.gz
+testlog*.*
+pr0?.js
+logs/
+
+!logs/all.log
+modules/*.js
+!/modules/*.js
